@@ -1,4 +1,5 @@
-🎵 Music-Player Android App 🎵
+🎵 Play Beat - Music-Player Android App 🎵
+
 Welcome to the Music-Player Android App! This app is designed to provide you with an enjoyable music listening experience. Below, you'll find the main features and instructions on how to get started.
 
 📲 Features
