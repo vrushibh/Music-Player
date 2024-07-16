@@ -28,7 +28,7 @@ To get started with the Music-Player Android App, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/music-player-android.git
+git clone https://github.com/vrushibh/music-player-android.git
 Open the project:
 
 Open the project in Android Studio.
